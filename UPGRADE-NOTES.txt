@@ -1,0 +1,43 @@
+SYLIX RESEARCH CONSULTANTS — WEBSITE UPGRADE PACKAGE
+Versions included: 2.2, 2.3 and 3.0
+
+WHAT WAS ADDED
+1. Credibility and trust section
+2. Client feedback summaries
+3. Frequently asked questions
+4. Improved founder profile
+5. Tailored quotation section without public pricing
+6. Mobile navigation menu
+7. Improved desktop, tablet and phone layouts
+8. Better project enquiry form
+9. WhatsApp lead generation
+10. Floating WhatsApp contact button
+11. Google Analytics event tracking for:
+   - WhatsApp clicks
+   - Email clicks
+   - Social media clicks
+   - Service interest
+   - Lead form submissions
+12. Improved SEO title, description and keywords
+13. Social sharing metadata
+14. ProfessionalService structured data
+15. robots.txt
+16. sitemap.xml
+17. Netlify security and caching settings
+
+IMPORTANT SEO STEP
+The exact live website address was not available while preparing this package.
+Open robots.txt and sitemap.xml after deployment and replace:
+https://YOUR-WEBSITE-ADDRESS.com
+with the exact Netlify or custom-domain website address.
+
+FILES TO KEEP TOGETHER
+- index.html
+- styles.css
+- script.js
+- robots.txt
+- sitemap.xml
+- netlify.toml
+- assets folder
+
+Do not rename or remove the assets folder.

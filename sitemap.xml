@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace YOUR-WEBSITE-ADDRESS.com with the exact live website address before submitting to Google Search Console. -->
+  <url>
+    <loc>https://YOUR-WEBSITE-ADDRESS.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

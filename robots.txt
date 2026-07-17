@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the example address below with your final website address after connecting a domain.
+Sitemap: https://YOUR-WEBSITE-ADDRESS.com/sitemap.xml
